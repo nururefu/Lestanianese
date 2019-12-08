@@ -1,0 +1,30 @@
+logo: # add logo name
+title: Lestanianese - レスタニア文字の記録
+description: > # this means to ignore newlines until "baseurl:"
+  レスタニア文字を記録していくウェブサイトです。
+time: 2019/12/08 # footer
+permalink: 'posts/:year-:month-:day-:title/'
+baseurl: "/Lestanianese" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+post_image_url: '/Lestanianese/assets/img/posts'
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+plugins:
+  - jekyll-paginate
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
