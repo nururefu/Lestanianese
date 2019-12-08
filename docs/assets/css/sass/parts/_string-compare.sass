@@ -7,12 +7,12 @@
     width: 100%
     height: 100%
 
-.string-compare-view img /* <= optional, for responsiveness */
+.string-compare-view img:first-of-type /* <= optional, for responsiveness */
     display: block
     max-width: 100%
     height: auto
 
-.string-compare-view svg
+.string-compare-view img:last-of-type
     position: absolute
     top: 0
     left: 0
@@ -21,5 +21,5 @@
     fill: red
     display: none
 
-.string-compare > input:checked ~ div > svg
+.string-compare > input:checked ~ div > img:last-of-type
     display: block

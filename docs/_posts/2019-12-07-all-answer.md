@@ -9,15 +9,7 @@ tag: [文字, 公式]
 
 ドラゴンズドグマで使用されている文字は既に[カプコンUXデザイン室公式ツイッター @CAPCOM_UXD](https://twitter.com/CAPCOM_UXD/)が公開している。
 
-<div class="string-compare">
-    <input type="checkbox" checked id="input-string-compare"><label for="input-string-compare">文字を表示</label>
-    <div class="string-compare-view">
-        <img src="{{site.post_image_url}}/Capcom-UXD-Tweet.png">
-        <svg viewBox="0 0 800 600">
-            <text x="0" y="400">a</text>
-        </svg>
-    </div>
-</div>
+{% include string-compare.html img="Capcom-UXD-Tweet.png" overlay="Capcom-UXD-Tweet_read.png" %}
 
 下記ツイートから引用
 
