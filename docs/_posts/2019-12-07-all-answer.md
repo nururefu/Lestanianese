@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "すべての答え"
-img: Capcom-UXD-Tweet.png # Add image post (optional)
-description: # Add post description (optional)
+img: Capcom-UXD-Tweet.png
 tag: [DDON, 文字, 公式]
 ---
 

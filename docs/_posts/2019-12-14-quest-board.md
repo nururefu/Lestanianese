@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "クエストボード"
-img: Quest-Board.jpg # Add image post (optional)
-description: # Add post description (optional)
+img: Quest-Board.jpg
 tag: [DDON, 文字, 白竜神殿レーゼ, 解読不能]
 ---
 
