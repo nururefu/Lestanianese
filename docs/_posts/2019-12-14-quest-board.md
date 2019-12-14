@@ -7,7 +7,7 @@ description: # Add post description (optional)
 tag: [DDON, 文字, 解読不能]
 ---
 
-白柳神殿レーゼにあるクエストボードの文字。
+白竜神殿レーゼにあるクエストボードの文字。
 
 {% include string-compare.html img="Quest-Board.jpg" overlay="" %}
 
