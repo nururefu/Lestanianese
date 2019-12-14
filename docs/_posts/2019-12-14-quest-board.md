@@ -4,7 +4,7 @@ title: "クエストボード"
 img: Quest-Board.jpg # Add image post (optional)
 date: 2019-12-14 22:10:00 +0900
 description: # Add post description (optional)
-tag: [DDON, 文字, 解読不能]
+tag: [DDON, 文字, 白竜神殿レーゼ, 解読不能]
 ---
 
 白竜神殿レーゼにあるクエストボードの文字。
