@@ -17,3 +17,5 @@ tag: [DDON, 文字, 白竜神殿レーゼ, 未読]
 
 {% include string-compare.html img="Event-Board-Content.jpg" overlay="" %}
 
+未読
+

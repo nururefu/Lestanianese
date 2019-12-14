@@ -17,6 +17,12 @@ tag: [DDON, 文字, 白竜神殿レーゼ, 解読不能]
 
 
 
+{% include string-compare.html img="Quest-Board-Content.jpg" overlay="" %}
+
+内容
+
+
+
 クエストボードの隣には納品クエスト用の納品ボックスが設置されている。
 
 {% include string-compare.html img="Post.jpg" overlay="" %}
