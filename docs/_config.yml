@@ -3,6 +3,7 @@ title: Lestanianese - レスタニア文字の記録
 description: > # this means to ignore newlines until "baseurl:"
   レスタニア文字を記録していくウェブサイトです。
 time: 2019/12/08 # footer
+future: true # use feature posts
 permalink: 'posts/:year-:month-:day-:title/'
 baseurl: "/Lestanianese" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
