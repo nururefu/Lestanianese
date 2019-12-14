@@ -2,7 +2,6 @@
 layout: post
 title: "すべての答え"
 img: Capcom-UXD-Tweet.png # Add image post (optional)
-date: 2019-12-07 22:25:00 +0900
 description: # Add post description (optional)
 tag: [DDON, 文字, 公式]
 ---
