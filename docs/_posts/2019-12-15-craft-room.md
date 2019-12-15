@@ -13,3 +13,23 @@ tag: [DDON, 文字, 白竜神殿レーゼ]
 
 日本語か～い！と、ツッコまれていたクラフト部屋。
 
+
+
+{% include string-compare.html img="Craft-Room-Floor.jpg" overlay="" %}
+
+> DORAGONZUDOGUMA WO ASONDE
+>
+> ITADAITE ARIGATOUGOZAIMASU
+>
+> GANBATTE TUKUTTA NODE
+>
+> DOUKA TANOSINDE KUDASAINE
+>
+> KOKOMADE
+>
+> YOMETA HITO HA
+>
+> TOTEMO SUGOI
+
+クラフトルーム内の床に書かれている文字。
+
