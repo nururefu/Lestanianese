@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "入っちゃダメ"
-img: Craft-Room.jpg
+img: Do-Not-Enter.jpg
 tag: [DDON, 文字, 白竜神殿レーゼ]
 ---
 
