@@ -2,7 +2,7 @@
 layout: post
 title: "クエストボード"
 img: Quest-Board.jpg
-tag: [DDON, 文字, 白竜神殿レーゼ, 解読不能]
+tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ, 解読不能]
 ---
 
 白竜神殿レーゼにあるクエストボードの文字。

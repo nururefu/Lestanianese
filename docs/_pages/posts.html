@@ -1,0 +1,34 @@
+---
+layout: default
+title: Posts
+permalink: /posts/
+---
+
+<section id="tags">
+  <h1>All Pages</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>title</th>
+        <th>image</th>
+        <th>date</th>
+        <th>tags</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in site.posts %}
+      <tr>
+        <td><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></td>
+        <td>
+          {% if post.img %}
+            <img src={{ site.post_image_url | append: '/' | append: post.img }} alt="{{post.title}}" width="100">
+          {% endif %}
+        </td>
+        <td>{{post.date | date: '%Y/%m/%d'}}</td>
+        <td>{% for tag in post.tags %}{{tag}} {% endfor %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>

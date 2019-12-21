@@ -2,7 +2,7 @@
 layout: post
 title: "クラフトルーム"
 img: Craft-Room.jpg
-tag: [DDON, 文字, 白竜神殿レーゼ]
+tag: [DDON, 文字, レスタニア文字, リム文字, 白竜神殿レーゼ]
 ---
 
 白竜神殿レーゼにあるクラフトルームの入口。

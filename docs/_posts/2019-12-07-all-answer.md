@@ -2,7 +2,7 @@
 layout: post
 title: "すべての答え"
 img: Capcom-UXD-Tweet.png
-tag: [DDON, 文字, 公式]
+tag: [DDON, 文字, レスタニア文字, レスタニア文字筆記体, リム文字, スペリング文字, 公式]
 ---
 
 ドラゴンズドグマで使用されている文字は既に[カプコンUXデザイン室公式ツイッター @CAPCOM_UXD](https://twitter.com/CAPCOM_UXD/)が公開している。

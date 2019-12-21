@@ -2,7 +2,7 @@
 layout: post
 title: "ブリアビーチ"
 img: Breya-Beach.jpg
-tag: [DDON, 文字, 白竜神殿レーゼ]
+tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 
 夏限定で利用できるブリアビーチ。なぜ夜に撮影したし。

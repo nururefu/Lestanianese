@@ -2,7 +2,7 @@
 layout: post
 title: "冒険手帳"
 img: Adventure-Notebook.jpg
-tag: [DDON, 文字, 白竜神殿レーゼ]
+tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 
 冒険手帳サポート係が持っているボード。

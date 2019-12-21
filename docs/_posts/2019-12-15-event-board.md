@@ -2,7 +2,7 @@
 layout: post
 title: "イベントボード"
 img: Event-Board.jpg
-tag: [DDON, 文字, 白竜神殿レーゼ, 未読]
+tag: [DDON, 文字, レスタニア文字, レスタニア文字筆記体, 白竜神殿レーゼ, 未読]
 ---
 
 イベントボードの文字。
