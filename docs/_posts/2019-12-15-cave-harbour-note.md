@@ -21,3 +21,9 @@ tag: [DDON, 文字, リム文字, 白竜神殿レーゼ]
 >
 > AIUEOKAKIKUEKO
 
+
+
+{% include string-compare.html img="My-Room-Desk.jpg" overlay="" %}
+
+同じ内容に薬の調合風の図が書き加えられ、自室の机に置かれていたりする謎。
+
