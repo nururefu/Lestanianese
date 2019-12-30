@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="1280"
+   height="720"
+   viewBox="0 0 1280 720"
+   sodipodi:docname="Season2-Looking-Back1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="./Season2-Looking-Back1_read.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter850">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,255)"
+         result="flood"
+         id="feFlood840" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite842" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur844" />
+      <feOffset
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset"
+         id="feOffset846" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite848" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix852" />
+      <feFlood
+         id="feFlood854"
+         flood-opacity="1"
+         flood-color="rgb(0,0,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite856"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur858"
+         in="composite1"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset860"
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite862"
+         in="fbSourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix864" />
+      <feFlood
+         id="feFlood866"
+         flood-opacity="1"
+         flood-color="rgb(0,0,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite868"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur870"
+         in="composite1"
+         stdDeviation="3"
+         result="blur" />
+      <feOffset
+         id="feOffset872"
+         dx="2.77556e-17"
+         dy="2.77556e-17"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite874"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2046"
+     inkscape:window-height="972"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.3111111"
+     inkscape:cx="709.04459"
+     inkscape:cy="324.59261"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="E:\Documents\GitRepos\Lestanianese\docs\assets\img\posts\Season2-Looking-Back2.jpg"
+       xlink:href="Season2-Looking-Back2.jpg"
+       y="0"
+       x="0"
+       id="image10"
+       preserveAspectRatio="none"
+       height="720"
+       width="1280" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g838"
+       style="filter:url(#filter850)">
+      <text
+         id="text822"
+         y="277.92056"
+         x="463.78302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="277.92056"
+           x="463.78302"
+           id="tspan820"
+           sodipodi:role="line">U T  A   T U NO  D  A   I  T I       N I  T Y   U NOR   Y   U  U</tspan></text>
+      <text
+         id="text826"
+         y="335.46573"
+         x="332.75967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="335.46573"
+           x="332.75967"
+           id="tspan824"
+           sodipodi:role="line">G A   R  A   E  N U  KOTO W A   R  I   G  A  M   A N  E   K U       W A  K  A  R   E   TOS   A  I  S   E   I</tspan></text>
+      <text
+         id="text830"
+         y="410.97037"
+         x="348.3999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="410.97037"
+           x="348.3999"
+           id="tspan828"
+           sodipodi:role="line">E   S  U T  A  N I  A  NOHONNTO U NOK I  K I  H A        KOKOK A   R  A   H A  J  I  M  A   R  U</tspan></text>
+    </g>
+  </g>
+</svg>
