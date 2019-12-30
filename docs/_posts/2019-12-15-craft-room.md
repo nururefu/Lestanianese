@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "クラフトルーム"
-img: Craft-Room.jpg
+image: Craft-Room.jpg
 tag: [DDON, 文字, レスタニア文字, リム文字, 白竜神殿レーゼ]
 ---
 

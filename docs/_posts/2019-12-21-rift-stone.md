@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "リムストーン"
-img: Rift-Stone.jpg
+image: Rift-Stone.jpg
 tag: [DDON, 文字, リム文字]
 ---
 

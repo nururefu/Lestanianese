@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "冒険手帳"
-img: Adventure-Notebook.jpg
+image: Adventure-Notebook.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

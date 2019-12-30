@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ブリアビーチ"
-img: Breya-Beach.jpg
+image: Breya-Beach.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

@@ -1,4 +1,5 @@
 logo: # add logo name
+lang: ja_JP
 title: Lestanianese - レスタニア文字の記録
 description: > # this means to ignore newlines until "baseurl:"
   レスタニア文字を記録していくウェブサイトです。
@@ -14,6 +15,10 @@ post_image_url: '/Lestanianese/assets/img/posts'
 paginate: 30
 paginate_path: /page:num/
 
+twitter:
+  username: nuru_refu
+  card: summary
+
 # Build settings
 markdown: kramdown
 plugins_dir:
@@ -22,10 +27,12 @@ plugins_dir:
 
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

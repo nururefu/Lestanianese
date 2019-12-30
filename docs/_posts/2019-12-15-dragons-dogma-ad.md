@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ドラゴンズドグマの広告"
-img: Dragons-Dogma-Ad.jpg
+image: Dragons-Dogma-Ad.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "レスタニア地図"
-img: Lestania-Map.jpg
+image: Lestania-Map.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

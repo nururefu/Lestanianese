@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "白竜文字"
-img: Magick-Eye.jpg
+image: Magick-Eye.jpg
 tag: [DDON, 文字, 白竜文字]
 ---
 

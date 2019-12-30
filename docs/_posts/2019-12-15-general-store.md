@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "雑貨屋"
-img: General-Store.jpg
+image: General-Store.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

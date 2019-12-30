@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "屋台の品書き"
-img: Menu-Of-Stand.jpg
+image: Menu-Of-Stand.jpg
 tag: [DDON, 文字, リム文字]
 ---
 
