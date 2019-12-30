@@ -17,7 +17,7 @@ paginate_path: /page:num/
 
 twitter:
   username: nuru_refu
-  card: summary
+  card: summary_large_image
 
 # Build settings
 markdown: kramdown
