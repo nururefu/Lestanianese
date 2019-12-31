@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "リム転移マップ"
-image: Rim-Transport-Map-Lestania.jpg
+image: assets/img/posts/Rim-Transport-Map-Lestania.jpg
 tag: [DDON, 文字, レスタニア文字]
 ---
 

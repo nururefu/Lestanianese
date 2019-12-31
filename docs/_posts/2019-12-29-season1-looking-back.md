@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "シーズン1振り返り"
-image: Season1-Looking-Back1.jpg
+image: assets/img/posts/Season1-Looking-Back1.jpg
 tag: [DDON, 文字, レスタニア文字筆記体]
 ---
 

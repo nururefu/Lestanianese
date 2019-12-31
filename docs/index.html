@@ -6,7 +6,7 @@ layout: main
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
       {% if post.image %}
-        <img src={{ site.post_image_url | append: '/' | append: post.image }}>
+        <img src={{ post.image }}>
       {% endif %}
       <div class="chapter_inner">
         <p class="chapter_number">{{post.date | date: '%Y/%m/%d'}}</p>

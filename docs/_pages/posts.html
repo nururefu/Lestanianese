@@ -21,8 +21,8 @@ permalink: /posts/
       <tr>
         <td><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></td>
         <td>
-          {% if post.img %}
-            <img src={{ site.post_image_url | append: '/' | append: post.image }} alt="{{post.title}}" width="100">
+          {% if post.image %}
+            <img src={{ site.baseurl | append: '/' | append: post.image }} alt="{{post.title}}" width="100">
           {% endif %}
         </td>
         <td>{{post.date | date: '%Y/%m/%d'}}</td>

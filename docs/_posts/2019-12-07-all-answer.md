@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "すべての答え"
-image: Capcom-UXD-Tweet.png
+image: assets/img/posts/Capcom-UXD-Tweet.png
 tag: [DDON, 文字, レスタニア文字, レスタニア文字筆記体, リム文字, スペリング文字, 公式]
 ---
 

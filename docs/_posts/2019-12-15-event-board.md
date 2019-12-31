@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "イベントボード"
-image: Event-Board.jpg
+image: assets/img/posts/Event-Board.jpg
 tag: [DDON, 文字, レスタニア文字, レスタニア文字筆記体, 白竜神殿レーゼ, 未読]
 ---
 

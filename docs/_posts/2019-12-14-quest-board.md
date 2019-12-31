@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "クエストボード"
-image: Quest-Board.jpg
+image: assets/img/posts/Quest-Board.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ, 解読不能]
 ---
 

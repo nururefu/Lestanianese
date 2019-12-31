@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "入っちゃダメ"
-image: Do-Not-Enter.jpg
+image: assets/img/posts/Do-Not-Enter.jpg
 tag: [DDON, 文字, レスタニア文字, 白竜神殿レーゼ]
 ---
 

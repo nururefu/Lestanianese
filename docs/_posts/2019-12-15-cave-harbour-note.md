@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "港洞の手記"
-image: Cave-Harbour-Note.jpg
+image: assets/img/posts/Cave-Harbour-Note.jpg
 tag: [DDON, 文字, リム文字, 白竜神殿レーゼ]
 ---
 
