@@ -7,7 +7,7 @@ time: 2019/12/08 # footer
 future: true # use feature posts
 permalink: 'posts/:year-:month-:day-:title/'
 baseurl: "/Lestanianese" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nururefu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 post_image_url: '/Lestanianese/assets/img/posts'
 
