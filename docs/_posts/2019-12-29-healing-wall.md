@@ -7,5 +7,10 @@ tag: [DDON, 文字, スペリング文字, レスタニア文字筆記体]
 
 回復魔法で壊せる壁。
 
-{% include string-compare.html img="Healing-Wall.jpg" overlay="" %}
+{% include string-compare.html img="Healing-Wall.jpg" overlay="Healing-Wall_read.png" %}
 
+> HIRAKEGOMA
+>
+> OPEN
+>
+> SESAME
