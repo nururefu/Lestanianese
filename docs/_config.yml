@@ -19,6 +19,12 @@ twitter:
   username: nuru_refu
   card: summary_large_image
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/default-card.png
+
 # Build settings
 markdown: kramdown
 plugins_dir:
